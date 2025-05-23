@@ -1,4 +1,4 @@
-# Tetris 2 🎮
+# Fency Tettris 🎮
 
 A modern, colorful take on classic Tetris — built with HTML, CSS, and JavaScript.
 
